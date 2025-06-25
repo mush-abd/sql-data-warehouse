@@ -14,9 +14,7 @@
 
 WARNING:
     This script will drop the existing 'crm_erp_db' database if it exists.
-
-
-
+    Ensure you have backups of any important data before running this script.
 */
 
 
